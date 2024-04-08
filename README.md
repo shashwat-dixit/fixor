@@ -1,0 +1,1 @@
+# Fixor is payment gateway and a UPI style QR code based payment method for blockchain.
